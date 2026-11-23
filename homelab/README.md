@@ -1,7 +1,6 @@
-# Homelab
-
 A 6-node Proxmox VE cluster I built and run at home to practice systems administration, Windows and Linux administration, and security work. Last updated: November 2026.
-![Homelab network overview](network-diagram.svg)
+
+![Homelab network overview](network-diagram_2.svg)
 
 ## At a glance
 - 6 Proxmox VE nodes in one cluster, about 94 CPU threads and 216 GB RAM total
