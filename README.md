@@ -19,6 +19,7 @@ AAS student in Network Administration and Cybersecurity (Lake Superior College, 
 - Day 1 - Git and SSH setup complete
 - 2026-11-22 - Organized the repo into homelab, labs, scripts, and notes
 - 2026-11-22 - Added Project Crucible (in progress)
+- 2026-11-22 - Published homelab overview and network diagram
 
 ## Contact
 LinkedIn: [your link]
