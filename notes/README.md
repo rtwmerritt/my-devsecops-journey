@@ -1,1 +1,3 @@
-# Notes. Dated study notes.
+# Notes. 
+
+Dated study notes.
